@@ -33,6 +33,14 @@ The dataset contains **~883 samples** with **3 features** (id, diagnostic, age) 
 
 ---
 
+## 🎯 Hipótesis
+
+**¿Puede un modelo basado en inteligencia artificial identificar correctamente los casos GES utilizando el diagnóstico y la edad del paciente?**
+
+Creemos que sí. Dado que las enfermedades GES están definidas por ley para un conjunto específico de patologías y rangos etarios, un modelo de clasificación entrenado con datos históricos debería ser capaz de aprender estos patrones y predecir con alta precisión si un caso corresponde o no a GES, basándose únicamente en el diagnóstico (texto) y la edad del paciente.
+
+---
+
 ## 🛠️ Instrucciones de Instalación Local
 Si deseas ejecutar este proyecto en tu propia máquina, sigue estos pasos:
 
